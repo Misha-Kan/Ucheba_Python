@@ -1,11 +1,3 @@
-#Dict: {'Vasya': 1975, 'Egor': 1999, 'Masha': 2002}
-#Existing value: 2002
-#Not existing value: None
-#Deleted value: 1999
-#Modified dictionary: {'Vasya': 1975, 'Kamila': 1981, 'Artem': 1915, 'Masha': 2002}
-
-#Set: {1, 'Яблоко', 42.314}
-#Modified set: {'Яблоко', 42.314, 13, (5, 6, 1.6)}
 print("Словари")
 my_dict = {"Dasha_M": 1988, "Misha_M": 1990}
 print(my_dict)
